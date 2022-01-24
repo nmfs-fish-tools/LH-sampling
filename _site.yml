@@ -2,7 +2,7 @@ name: "LHSampling"
 navbar:
   title: "LHSampling"
   left:
-    - icon: fa-fish fa-lg
+    - text: ""
       href: index.html
     - text: "Online Application"
       href: "#0"
@@ -16,6 +16,8 @@ navbar:
       href: https://github.com/NOAA-LHP/LHsampling     
     - icon: fa-paper-plane fa-lg
       href: mailto:erin.bohaboy@noaa.gov  
+    - icon: fa-fish fa-lg
+      href: https://noaa-fisheries-integrated-toolbox.github.io/
 output_dir: "."
 output:
   html_document:
