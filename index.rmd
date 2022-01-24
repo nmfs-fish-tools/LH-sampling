@@ -1,0 +1,25 @@
+---
+title: "LHSampling"
+output: html_document
+---
+
+**Authors:** Erin Bohaboy, Eva Schemmel
+
+NOAA Pacific Islands Fisheries Science Center Life History Program
+
+
+
+## Life History Sampling (LHSampling)
+
+An individual-based model (IBM) incorporating within-population variability in von Bertalanffy growth, size-dependent natural mortality, and a size-selective fishery to simulate an exploited fish population and catch (harvest). A bootstrap algorithm allows the user to investigate various sampling approaches including
+sampling strategy (proportional or fixed otolith sampling, POS or FOS,
+respectively), sample size, supplementation with fishery-independent sampling, and assumptions regarding von Bertalanffy t0 and the relationship between variance of length at age and age. A function to produce plots of the bootstrap sampling results is also provided.
+
+### Publications
+
+Schemmel. E., Bohaboy. E., M.J. Kinney, J.M. O’Malley.  An Assessment of Sampling Approaches for Estimating Growth from Fishery-Dependent Biological Samples. ICES in review.
+
+
+<img src="https://raw.githubusercontent.com/nmfs-fish-tools/nmfspalette/main/man/figures/noaa-fisheries-rgb-2line-horizontal-small.png" height="75" alt="NOAA Fisheries">
+
+[U.S. Department of Commerce](https://www.commerce.gov/) | [National Oceanographic and Atmospheric Administration](https://www.noaa.gov) | [NOAA Fisheries](https://www.fisheries.noaa.gov/)

@@ -1,0 +1,27 @@
+name: "LHSampling"
+navbar:
+  title: "LHSampling"
+  left:
+    - icon: fa-fish fa-lg
+      href: index.html
+    - text: "Online Application"
+      href: "#0"
+    - text: "Download Application"
+      href: "#0"
+    - text: "Documentation"
+      href: https://github.com/NOAA-LHP/LHsampling/blob/main/LH_Sampling_documentation.pdf
+  right:
+    - icon: fa-github fa-lg
+      text: "Source Code"
+      href: https://github.com/NOAA-LHP/LHsampling     
+    - icon: fa-paper-plane fa-lg
+      href: mailto:erin.bohaboy@noaa.gov  
+output_dir: "."
+output:
+  html_document:
+    #theme: journal
+    highlight: textmate
+    css: extra.css
+    fig_caption: true
+    toc: true
+    toc_float: true
