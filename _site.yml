@@ -23,5 +23,3 @@ output:
     highlight: textmate
     css: extra.css
     fig_caption: true
-    toc: true
-    toc_float: true
